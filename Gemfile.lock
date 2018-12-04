@@ -63,7 +63,7 @@ GEM
       mini_portile2 (~> 2.3.0)
     nori (2.6.0)
     oat (0.5.2)
-    rack (2.0.4)
+    rack (>= 2.0.6)
     rack-protection (2.0.1)
       rack
     rack-test (0.8.3)
